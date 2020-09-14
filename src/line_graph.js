@@ -82,7 +82,7 @@ function LineGraph({ casesType = 'cases', ...props }) {
         }
 
         fetchData()
-    }, [casesType])
+    }, [casesType, buildChartData])
 
 
 
