@@ -1,16 +1,16 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "COVID-19 Tracker",
+  "name": "COVID-19 Tracker by devavi",
   "icons": [
     {
       "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
+      "sizes": "32x32 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "logo128.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "128x128"
     },
     {
       "src": "logo512.png",
